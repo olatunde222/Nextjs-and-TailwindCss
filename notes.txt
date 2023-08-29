@@ -1,0 +1,3 @@
+----> Project is initiated with Nextjs framework [npx create-next-app@latest, npm i swiper ]
+----> Project is started with  [npm run dev]
+----> Project uses react icons with  [npm i react-icons]
